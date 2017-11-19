@@ -44,7 +44,7 @@ namespace ConsoleApplication_inheritance
             meng.Song = "谁的眼泪在飞";
             meng.Introduce();
             Console.ReadLine();
-           // ///Console.Read();
+           // ////Console.Read();
         }
     }
     
